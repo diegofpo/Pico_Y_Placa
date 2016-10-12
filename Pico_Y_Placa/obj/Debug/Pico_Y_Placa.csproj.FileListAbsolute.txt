@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\bin\Debug\Pico_Y_Placa.exe.config
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\bin\Debug\Pico_Y_Placa.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\bin\Debug\Pico_Y_Placa.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.Form1.resources
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.Properties.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Pico_Y_Placa\Pico_Y_Placa\obj\Debug\Pico_Y_Placa.pdb
